@@ -42,7 +42,7 @@ for(int i=1;i<n;i++)
 	{
 		tat[i]=ct[i]-at[i];
 		totalTAT +=tat[i];
-		wt[i]=tat[i]-wt[i];
+		wt[i]=tat[i]-bt[i];
 		totalWT+=wt[i];
 	}
 	printf("\nProc_name\t AT\t BT\t CT\t TAT\t WT\t\n");
