@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int bt[10],at[10],ct[10],tat[10],wt[10];
+	int bt[10],at[10]={0},ct[10],tat[10],wt[10];
 	int n;
 	float totalTAT,totalWT;
 	
