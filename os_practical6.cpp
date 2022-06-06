@@ -50,20 +50,4 @@ int main(){
 	}
 	printf("\nAverage tat:%f",(float)totaltat/n);
 	printf("\n Average wt:%f",(float)totalwt/n);
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-}
+	}
